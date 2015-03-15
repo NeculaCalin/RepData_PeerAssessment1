@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+Necula Calin  
+`r format(Sys.time(), '%d %B, %Y')`  
 
 ## Introduction
   This report is part of the Coursera **Reproducible Research** class.
